@@ -1,5 +1,6 @@
 customerservice:
 spring.datasource.username = root
 spring.datasource.password = Happy!23
+system.out.println("inside dev settings")
 
 
