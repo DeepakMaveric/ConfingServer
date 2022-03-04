@@ -1,5 +1,6 @@
 customerservice:
- msg: "Hello from customer service dev"
+ server.
+  port:8044
 
 
 
