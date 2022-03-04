@@ -4,5 +4,5 @@ server:
 spring:
  datasource:
   url:jdbc:mysql://localhost:3306/custaccountmicroservies?useSSL=false&serverTimezone=UTC&useLecgacyDate&Time
-  username : root
-  password : Happy!23
+  username:root
+  password:Happy!23
